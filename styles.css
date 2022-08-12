@@ -7,19 +7,12 @@ body {
   font-family: 'Merriweather', serif;
 }
 
-
 .middle-container {
-  margin: 100px 0;
-}
-
-.mainimg {
-  height: 50px;
-  width: 50px;
+  margin: 10%;
 }
 
 .bottom-container {
-  padding: 50px 0 30px;
-  margin-bottom: 0;
+  padding: 2% 0 1%;
 }
 
 .contact-me {
@@ -27,17 +20,17 @@ body {
 }
 
 .ltwlast {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
   display: inline-block;
 }
 
 .form-control {
-  margin: 10px 0 10px 0;
+  margin: 8% 0 4% 0;
 }
 
 .copyright {
-  padding: 20px 0;
+  padding: 2%;
   color: #ASD856;
   font-family: 'Montserrat', sans-serif;
   font-size: .75rem;
@@ -71,7 +64,7 @@ a:hover {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
